@@ -73,6 +73,7 @@ nav {
   padding: 0.5rem 1rem;
   text-decoration: none;
   border-radius: 5px;
+  margin-top: 50px;
 }
 
 /* Content section styles */
@@ -80,6 +81,17 @@ nav {
   max-width: 1200px;
   margin: 0 auto;
   padding: 2rem;
+}
+.c1{
+  background-color: #fff;
+  opacity: 0.7;
+  box-shadow: (-2, -2, 4, 4, #f00000 );
+  border-radius: 10px;
+}
+.about-h, .about-p{
+  color: rgba(8, 8, 8);
+  text-align: center;
+
 }
 
 /* Footer styles */
